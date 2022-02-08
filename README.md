@@ -2,4 +2,4 @@
 [![Actions Status](https://github.com/Barzabel/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Barzabel/frontend-project-lvl1/actions)
 
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/68c86601ab41a89cb029/maintainability)](https://codeclimate.com/github/Barzabel/frontend-project-lvl1/maintainability)
