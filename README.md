@@ -6,3 +6,7 @@
 
 
 [![Workflow status](https://github.com/Barzabel/frontend-project-lvl1/actions/workflows/all_tests.yml/badge.svg)](https://github.com/Barzabel/frontend-project-lvl1/)
+
+
+game-even
+[![asciicast](https://asciinema.org/a/468509.svg)](https://asciinema.org/a/468509)
