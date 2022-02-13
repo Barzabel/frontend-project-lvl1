@@ -8,5 +8,8 @@
 [![Workflow status](https://github.com/Barzabel/frontend-project-lvl1/actions/workflows/all_tests.yml/badge.svg)](https://github.com/Barzabel/frontend-project-lvl1/)
 
 
-game-even
+brain-even
 [![asciicast](https://asciinema.org/a/468509.svg)](https://asciinema.org/a/468509)
+
+brain-calc
+[![asciicast](https://asciinema.org/a/468681.svg)](https://asciinema.org/a/468681)
